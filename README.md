@@ -23,20 +23,9 @@
 
 ---
 
-## 📊 Key Analyses  
-📌 Analyzed:
-- 🥇 Top-selling products & cities  
-- 📅 Monthly & daily sales trends  
-- 👥 Customer type behavior (new vs returning)  
-- 💳 Payment method distribution  
-- 📈 Correlation between quantity, price, and total revenue
-
----
-
 ## 📈 Visualizations  
 🖼️ Used:
-- 📊 Bar, Pie, Line, and Box plots  
-- 🔥 Heatmaps for correlation  
+- 📊 Bar, Pie, Line, scatter and Box plots  
 - 🕒 Time series plots for sales trends
 
 ---
@@ -44,9 +33,8 @@
 ## 💡 Insights  
 💬 Key Findings:
 - 🕔 Sales peak during weekends & month-ends  
-- 💳 E-Payments are the most preferred  
 - ♻️ Returning customers have higher average spend  
-- 🏙️ Certain products and cities drive most revenue
+- 🏙️ Certain products and quanlity drive most revenue
 
 ---
 
@@ -60,9 +48,9 @@
 ## ✍️ Author
 
 **Your Name**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🔗 [GitHub](https://github.com/yourusername)
+📧 [charimudali05@gmail.com]  
+🔗 [LinkedIn](www.linkedin.com/in/chandrahari-u-0082ba270)  
+🔗 [GitHub]([https://github.com/yourusername](https://github.com/ChandraHari05))
 
 ---
 
